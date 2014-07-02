@@ -13,12 +13,13 @@ let g:colors_name="lychee"
 highlight Normal guibg=#f9fcff guifg=#086F8A ctermbg=231 ctermfg=24
 
 highlight Cursor guibg=#ee046f ctermbg=198
-highlight CursorLine guibg=#ffffff
+highlight CursorLine guibg=NONE guifg=NONE
 highlight CursorLineNr guifg=#086f8a gui=NONE ctermfg=24 cterm=NONE
 highlight DiffAdd guifg=#205b46 ctermfg=35
 highlight DiffChange guifg=#c08624 ctermfg=172
 highlight DiffDelete guifg=#f72d37 ctermfg=196
 highlight ErrorMsg	guibg=#f72d37 guifg=white ctermbg=196 ctermfg=15
+highlight NonText guifg=#dddddd
 highlight StatusLine guifg=#66629f ctermfg=61
 highlight StatusLineNC	guifg=#8887ac ctermfg=99
 highlight Visual guibg=#ee046f ctermbg=198
