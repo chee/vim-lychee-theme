@@ -1,4 +1,4 @@
-" Maintainer: chee <chee@snaek.org>
+" Maintainer: chee <yay@chee.party>
 " URL: https://github.com/chee/vim-lychee-theme
 
 set background=light
